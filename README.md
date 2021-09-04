@@ -18,3 +18,5 @@ Professional experience with:
 <p align="left">
 You can reach me through <a href="https://www.linkedin.com/in/luana-moura-434315160/" alt="Linkedin"> Linkedin </a>.
 </p>
+
+Thanks for stopping by!
