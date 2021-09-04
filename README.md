@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/42539974/132098665-34aad5f5-1efb-4bfa-807b-7c882ab85472.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 Hi there 👋
+
 <p align="left"> 
   My name is Luana and i'm currently working at <a href="https://intelitrader.com.br"> Intelitrader </a> as a <strong> backend developer</strong>.
   At the moment i'm allocated at <a href="https://www.rico.com.vc"> Rico Investimentos </a>.
