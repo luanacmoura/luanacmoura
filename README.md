@@ -2,8 +2,7 @@
 <h2> Hi there 👋 </h2>
 
 <p align="left"> 
-  My name is Luana and i'm currently working at <a href="https://intelitrader.com.br"> Intelitrader </a> as a <strong> backend developer</strong>.
-  At the moment i'm allocated at <a href="https://www.rico.com.vc"> Rico Investimentos </a>.
+  My name is Luana and i'm currently working at <a href="https://www.xpi.com.br/"> XP Investimentos </a> as a <strong> backend developer</strong>.
 </p>
 
 <p align="left">
