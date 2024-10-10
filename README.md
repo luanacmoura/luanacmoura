@@ -2,7 +2,7 @@
 <h2> Hi there 👋 </h2>
 
 <p align="left"> 
-  My name is Luana and i'm currently working at <a href="https://www.xpi.com.br/"> XP Investimentos </a> as a <strong> backend developer</strong>.
+  My name is Luana and i'm currently working at Rocha System </a> as a <strong> backend developer</strong>.
 </p>
 
 <p align="left">
